@@ -6,3 +6,7 @@ class mathLib2d:
 
     def triple(x):
         return x * 3
+
+
+    def quadruple(x):
+        return x * 4
