@@ -12,3 +12,6 @@ class mathLib2d:
 
     def quadruple(x):
         return x * 4
+
+    def square(x):
+        return x
