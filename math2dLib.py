@@ -1,3 +1,5 @@
+"""A Math library Test"""
+
 class mathLib2d:
 
     def double(x):
